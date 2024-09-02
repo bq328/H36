@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "weixinsxy.com",
+        "wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".weixinsxy.com",
+        ".wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "l234567",
+        "ikah",
+        "chao100"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "10.10.10.10/24",
+        "10.10.10.168/24",
+        "10.10.10.38/24",
+        "10.10.10.168/24"
+      ]
+    }
+  ]
+}

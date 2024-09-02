@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "www.etoro.com",
+        "www.tradingview.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".etoro.com",
+        ".tradingview.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "etoro",
+        "tradingview"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "199.59.150.12/24",
+        "23.40.169.125/24"
+      ]
+    }
+  ]
+}
