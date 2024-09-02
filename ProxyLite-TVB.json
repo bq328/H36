@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain": [
-        #"www.tvb.com",
-        #"www.viu.com"
+       "www.tvb.com",
+       "www.viu.tv"
       ]
     },
     {
