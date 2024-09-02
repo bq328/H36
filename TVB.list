@@ -93,3 +93,25 @@ DOMAIN,rthktv31-live.akamaized.net
 DOMAIN,rthktv32-live.akamaized.net
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,rthk.org.hk
+
+# 881
+DOMAIN-SUFFIX,881903.com,881
+IP-CIDR,103.20.237.110/32,881
+
+# 903
+USER-AGENT,*903*,881903
+USER-AGENT,903*,881903
+HOST-KEYWORD,903,881903
+HOST,881903.com,881903
+HOST-SUFFIX,881903.com,881903
+
+# metroradio
+USER-AGENT,*RTHK*,metroradio
+HOST-KEYWORD,RTHK,metroradio
+HOST,metroradio.com.hk,metroradio
+HOST-SUFFIX,metroradio.com.hk,metroradio
+
+# TRADINGVIEW
+DOMAIN-SUFFIX,tw.tradingview.com,TRADINGVIEW
+DOMAIN-SUFFIX,tradingview.com,TRADINGVIEW
+DOMAIN-SUFFIX,cn.tradingview.com,TRADINGVIEW
